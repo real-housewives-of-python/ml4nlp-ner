@@ -1,0 +1,18 @@
+Python version used: 3.8.13
+
+
+The following modules are used in this project:
+
+csv
+gensim
+collections
+spacy
+sklearn 
+pandas
+numpy
+sys
+gensim
+
+
+Word embeddings used can be downloaded at:
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g
