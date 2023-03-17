@@ -1,6 +1,3 @@
-ALYSSA MACGREGOR-HASTIE
-TEXT MINING
-2022
 
 This repository provides scripts and data files for the Machine Learning for NLP course.
 
