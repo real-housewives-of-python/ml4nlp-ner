@@ -1,7 +1,9 @@
 
 Named Entity Recognition (NER) is an NLP task used to detected named entities (e.g. person, location, organiztion) and assign them to a predetermined category. 
-In this paper, we train the following models on a set of features specifically made for the purpose of NER:  Logistic Regression, Naive Bayes, SVM and Conditional Random Fields. We then use precision, recall and F1 to evaluate and compare their output on the development and test data from the ConLL-2003 corpus.
-We observe that the best performing model is Logistic Regression, followed by Naive Bayes, after which we run a feature ablation on both models. In order to gain insights to implement future improvements, we then perform an error analysis from the output of Logistic Regression on the test data. 
+In this paper, we train the following models on a set of features specifically made for the purpose of NER:  Logistic Regression, Naive Bayes, SVM and Conditional Random Fields.
+We then use precision, recall and F1 to evaluate and compare their output on the development and test data from the ConLL-2003 corpus.
+We observe that the best performing model is Logistic Regression, followed by Naive Bayes, after which we run a feature ablation on both models.
+In order to gain insights to implement future improvements, we then perform an error analysis from the output of Logistic Regression on the test data. 
 This repository provides scripts and data files for the Machine Learning for NLP course.
 
 ### CODE ###
